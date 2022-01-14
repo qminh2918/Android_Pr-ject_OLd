@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn1"
+        android:backgroundTint="@color/design_default_color_secondary"
+        android:text="ok"
+        android:layout_gravity="bottom"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:textSize="20dp"
+        android:layout_width="400px"
+        android:layout_height="200px"/>
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="400px"
+        android:layout_height="200px"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="100dp"
+        android:backgroundTint="@color/đỏ"
+        android:textSize="20dp"
+        android:text="abc" />
+
+
+</LinearLayout>

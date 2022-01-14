@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">Lab</string>
+    <string name="ok">OK</string>
+    <string name="exit">Thoát</string>
+    <string name="login">Đăng nhập</string>
+    <string name="ed1">Nhập tài khoản hoặc số thứ nhất</string>
+    <string name="ed2">Nhập số thứ hai</string>
+    <string name="pwd">Nhập password</string>
+    <string name="name">Nhập tên</string>
+    <string name="finish">Finish</string>
+</resources>
